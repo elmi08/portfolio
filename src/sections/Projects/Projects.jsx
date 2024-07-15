@@ -11,7 +11,7 @@ function Projects() {
           src={logoImage}
           link="https://github.com/elmi08/notes-app.git"
           h3="Developed and Deployed Fast-Note-App to Microk8s"
-          p="Note-Taking App"
+          p="Note-Taking Application"
         />
       </div>
     </section>
